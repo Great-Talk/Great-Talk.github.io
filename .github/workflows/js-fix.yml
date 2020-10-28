@@ -1,9 +1,0 @@
-- name: eslint + fix
-  # You may pin to the exact commit or the version.
-  # uses: getsentry/action-eslint-fix@2a59d0735d51e1e2288412cc9416a77db1191e74
-  uses: getsentry/action-eslint-fix@v2
-  with:
-    # GitHub token
-    GITHUB_TOKEN: 
-    # Just runs eslint, doesn't commit any changes
-    dry: # optional
