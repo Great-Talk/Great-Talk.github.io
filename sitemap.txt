@@ -1,4 +1,4 @@
 https://great-talk.github.io/
-https://great-talk.github.io/signup.html
-https://great-talk.github.io/login.html
-https://great-talk.github.io/
+https://great-talk.github.io/signup
+https://great-talk.github.io/login
+https://great-talk.github.io/404.html
