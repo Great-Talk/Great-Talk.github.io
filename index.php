@@ -10,3 +10,4 @@
 <p><a href="chat.html">Chat</a></p>
 <p><a href="ask.html">Ask</a></p>
 </body>
+<?php ?>
